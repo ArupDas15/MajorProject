@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SmartShop</string>
+    <string name="btn_scan2">Scan Another</string>
+    <string name="add_cart">Add To Cart</string>
+    <string name="btn_buy">Buy Item</string>
+    <string name="btn_logout">Logout</string>
+    <string name="view_cart">View Cart</string>
+</resources>

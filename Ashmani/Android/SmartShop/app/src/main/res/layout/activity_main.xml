@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+    <ImageView
+    android:id="@+id/login"
+    android:layout_width="match_parent"
+    android:layout_height="165dp"
+    android:layout_marginLeft="40dp"
+    android:layout_marginTop="50dp"
+    android:layout_marginRight="40dp"
+    android:layout_marginBottom="20dp"
+    android:onClick="loginClick"
+    app:srcCompat="@drawable/login" />
+
+
+    <ImageView
+    android:id="@+id/register"
+    android:layout_width="match_parent"
+    android:layout_height="165dp"
+    android:layout_marginLeft="40dp"
+    android:layout_marginTop="40dp"
+    android:layout_marginRight="40dp"
+    android:layout_marginBottom="20dp"
+    android:onClick="regClick"
+    app:srcCompat="@drawable/register" />
+
+</LinearLayout>
