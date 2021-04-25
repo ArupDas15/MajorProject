@@ -12,7 +12,7 @@ Project Partners:
 1. Ashmani Singh: https://www.linkedin.com/in/akash-prasad-225723148/
 2. Akash Prasad: https://www.linkedin.com/in/ashmani-singh-28a485128/
 3. Harsh Raj: https://www.linkedin.com/in/harsh-raj-b4089153/
-</br>You can find me here: https://www.linkedin.com/in/arup-das-90033a153/
+4. Arup Das: https://www.linkedin.com/in/arup-das-90033a153/
 
 Papers Published based on this work:
 ------------------------------------------
