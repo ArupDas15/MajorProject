@@ -23,7 +23,7 @@ Papers Published based on this work:
  
 2. Transforming Transactional Marketing of Retailers Using Blockchain Approach.
    Paper presented and published in International Conference on Sustainable Computing, Technology and Management (SUSCOM 2019) held in February 26-28, 2019 at Amity University, Rajasthan, India.
-   Acessible at: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3350886
+   Accessible at: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3350886
    
 Link to Report : 
 -----------------
