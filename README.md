@@ -9,8 +9,8 @@ Our project also aims at simplifying the customer experience when it comes to sh
 
 Project Partners:
 -----------------------
-1. Ashmani Singh: https://www.linkedin.com/in/akash-prasad-225723148/
-2. Akash Prasad: https://www.linkedin.com/in/ashmani-singh-28a485128/
+1. Ashmani Singh: https://www.linkedin.com/in/ashmani-singh-28a485128/
+2. Akash Prasad: https://www.linkedin.com/in/akash-prasad-225723148/
 3. Harsh Raj: https://www.linkedin.com/in/harsh-raj-b4089153/
 4. Arup Das: https://www.linkedin.com/in/arup-das-90033a153/
 
@@ -19,7 +19,7 @@ Papers Published based on this work:
 1. Enhancing retail business and customer experience using blockchain approach, DOI: 10.1504/IJBC.2020.111573
    International Journal of Blockchains and Cryptocurrencies, 2020 Vol.1 No.3, pp.273 - 285
    Accessible at: https://www.inderscience.com/info/inarticle.php?artid=111573 </br>
-   **Free Copy Available Here**: https://github.com/ArupDas15/MajorProject/blob/62e3f10f66a53f9acab629c4747a777010265c8f/Enhancing%20Retail%20business%20and%20customer%20experience%20using%20blockchain%20approach.pdf
+   **Free Copy Available [Here](https://github.com/ArupDas15/MajorProject/blob/62e3f10f66a53f9acab629c4747a777010265c8f/Enhancing%20Retail%20business%20and%20customer%20experience%20using%20blockchain%20approach.pdf)**.
  
 2. Transforming Transactional Marketing of Retailers Using Blockchain Approach.
    Paper presented and published in International Conference on Sustainable Computing, Technology and Management (SUSCOM 2019) held in February 26-28, 2019 at Amity University, Rajasthan, India.
@@ -27,4 +27,4 @@ Papers Published based on this work:
    
 Link to Report : 
 -----------------
-https://github.com/ArupDas15/MajorProject/blob/8e7f5ce665621c8bfdc02bcda6e9cb0dbbbf577c/report.pdf
+The final report can be found [here](https://github.com/ArupDas15/MajorProject/blob/8e7f5ce665621c8bfdc02bcda6e9cb0dbbbf577c/report.pdf).
